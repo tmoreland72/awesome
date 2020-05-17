@@ -1,7 +1,7 @@
 ## Awesome Things
-### Pages
+### Topics
 - [Google Firebase](./firebase.md)
-- [Quasar (Vue)](./quasar.md)
+- [Quasar (Vue)](quasar/index.md)
 
 ### Links
 - [GitHub](https://github.com)
