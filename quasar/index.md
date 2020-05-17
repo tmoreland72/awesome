@@ -1,12 +1,13 @@
-### Quasar Framework
+[Home](/README.md) > Quasar Framework
 
+### Quasar Framework
 [Quasar Website](https://quasar.dev)
 
 ---
 
 #### Articles
 
-[Snippets](snippets/README.md)
+[Snippets](snippets/index.md)
 
 
 ##### Two Way Binding
